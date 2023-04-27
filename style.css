@@ -49,6 +49,28 @@
 
 /* font end */
 
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.f-dancing {
+  font-family: "Dancing Script";
+}
+
+.fs-48 {
+  font-size: 48px;
+}
+
+/* header */
+
+.header {
+  background-color: rgb(199, 255, 199);
+}
+
+/* main */
+
 .main {
   display: flex;
   flex-direction: column;
